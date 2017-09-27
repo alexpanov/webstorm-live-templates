@@ -7,5 +7,5 @@ Get some hands on knowledge and get the team set up with basic configs and plugi
 ## Getting Started
 1. Download the [latest Webstorm](https://www.jetbrains.com/webstorm/).
 1. Install to your Applications, stick with the defaults. Pick Darcula for your appearance theme. Iz nice.
-1. Download and import the [settings](settings.jar). [This is how you do it](https://www.jetbrains.com/help/webstorm/exporting-and-importing-settings.html#d63249e56).
-1. Check out this project. [This is how to do it](https://www.jetbrains.com/help/webstorm/cloning-a-repository-from-github.html).
+1. Download and import the [settings](settings.jar). [How?](https://www.jetbrains.com/help/webstorm/exporting-and-importing-settings.html#d63249e56)
+1. Check out https://github.com/alexpanov/3c. [How?](https://www.jetbrains.com/help/webstorm/cloning-a-repository-from-github.html)
